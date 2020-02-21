@@ -12,3 +12,6 @@ The following is a list of my side projects that I try to create and experiment 
     + simple demo of json rest server
     + 1 click run with docker-compose
     + graceful server shutdown code
+    
+- [react-hooks-crud](https://github.com/pytorchtw/react-hooks-crud)
+    + A react hooks CRUD demo using axios and jsonplaceholder
