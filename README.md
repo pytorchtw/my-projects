@@ -2,6 +2,7 @@
 
 The following is a list of my side projects that I try to create and experiment with when learning something new
 - [Jwordlist.com](http://jwordlist.com)
+    + docker-compose up, simple deployment
     + A Japanese vocabulary extraction from text website
     + Reactjs frontend code [github repo](https://github.com/kuso/japanese-text-analyzer-frontend)
     + Golang backend
@@ -15,7 +16,7 @@ The following is a list of my side projects that I try to create and experiment 
 
 - [go-json-rest-starter](https://github.com/pytorchtw/go-json-rest-starter)
     + simple demo of json rest server
-    + 1 click run with docker-compose
+    + docker-compose up, simple deployment
     + graceful server shutdown code
     
 - [react-hooks-crud](https://github.com/pytorchtw/react-hooks-crud)
