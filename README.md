@@ -1,5 +1,7 @@
 # My Projects
 
+The following is a list of my side projects that I try to create and experiment with when learning something new
+
 - [go-jwt-server](https://github.com/pytorchtw/go-jwt-server)
     + A golang jwt login starter project
     + golang backend, react material ui frontend
@@ -10,7 +12,6 @@
     + postgresql in docker container
     + docker, docker-compose
 
-The following is a list of my side projects that I try to create and experiment with when learning something new
 - [Jwordlist.com](http://jwordlist.com)
     + docker-compose up, simple deployment
     + A Japanese vocabulary extraction from text website
