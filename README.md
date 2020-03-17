@@ -1,5 +1,15 @@
 # My Projects
 
+- [go-jwt-server](https://github.com/pytorchtw/go-jwt-server)
+    + A golang jwt login starter project
+    + golang backend, react material ui frontend
+    + golang-migrate for sql migrations - [github.com/golang-migrate/migrate](https://github.com/golang-migrate/migrate)
+    + sqlboiler for db orm code generation - [github.com/volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler)
+    + swagger and go-swagger for api code generation - [github.com/go-swagger/go-swagger](https://github.com/go-swagger/go-swagger)
+    + jwt-go - [github.com/dgrijalva/jwt-go](https://github.com/dgrijalva/jwt-go)
+    + postgresql in docker container
+    + docker, docker-compose
+
 The following is a list of my side projects that I try to create and experiment with when learning something new
 - [Jwordlist.com](http://jwordlist.com)
     + docker-compose up, simple deployment
