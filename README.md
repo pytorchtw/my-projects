@@ -11,6 +11,7 @@ The following is a list of my side projects that I try to create and experiment 
     + jwt-go - [github.com/dgrijalva/jwt-go](https://github.com/dgrijalva/jwt-go)
     + postgresql in docker container
     + docker, docker-compose
+    + testing included
 
 - [Jwordlist.com](http://jwordlist.com)
     + docker-compose up, simple deployment
