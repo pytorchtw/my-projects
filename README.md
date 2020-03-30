@@ -1,6 +1,12 @@
 # My Projects
 
 The following is a list of my side projects that I try to create and experiment with when learning something new
+- [go-db-services-starter](https://github.com/pytorchtw/go-db-services-starter)
+    + boilerplate starter code for fast db and grpc development
+    + golang-migrate for db migrations
+    + sqlboiler for automatic orm code generation
+    + grpc server and client starter
+    + postgresql in docker container
 
 - [go-jwt-server](https://github.com/pytorchtw/go-jwt-server)
     + A golang jwt login starter project
@@ -13,7 +19,7 @@ The following is a list of my side projects that I try to create and experiment 
     + docker, docker-compose
     + testing included
 
-- [Jwordlist.com](http://jwordlist.com)
+- [jpvocab.com](http://jpvocab.com)
     + docker-compose up, simple deployment
     + A Japanese vocabulary extraction from text website
     + Reactjs frontend code [github repo](https://github.com/kuso/japanese-text-analyzer-frontend)
